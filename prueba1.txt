@@ -1,0 +1,4 @@
+Este es un archivo de prueba para el sistema de archivos distribuido.
+Se utilizará para demostrar cómo se fragmenta y distribuye en los nodos de almacenamiento.
+Cada fragmento será enviado a uno de los nodos disponibles en el sistema.
+¡Buena suerte con las pruebas!

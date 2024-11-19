@@ -1,0 +1,8 @@
+{
+  "puerto_nodo_central": 5000,
+  "nodos_almacenamiento": [
+    { "host": "localhost", "puerto": 5001 },
+    { "host": "localhost", "puerto": 5002 }
+  ],
+  "tamaño_fragmento": 100
+}
